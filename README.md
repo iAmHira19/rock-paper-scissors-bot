@@ -1,8 +1,6 @@
-# rock-paper-scissors-bot
-Free Code Camp Course --  C# Certification from Microsoft and freeCodeCamp
-
 # Rock Paper Scissors Bot
 
+C# Certification from Microsoft and freeCodeCamp
 This repository contains a Python implementation of a Rock, Paper, Scissors bot. The bot uses a simple strategy to try and win at least 60% of the games against various opponents by analyzing the opponent's previous moves.
 
 ## Project Structure
